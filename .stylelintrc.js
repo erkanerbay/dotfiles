@@ -4,7 +4,7 @@ module.exports = {
     "color-no-invalid-hex": true,
     "comment-no-empty": true,
     "declaration-block-no-duplicate-properties": [
-      true,0
+      true,
       {
         ignore: ["consecutive-duplicates-with-different-values"]
       }
